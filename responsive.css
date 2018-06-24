@@ -1,0 +1,402 @@
+
+@media (max-width: 575.98px) {
+    .top-bar-socials a {
+        margin-bottom: 10px;
+        }
+    body { 
+        font-size: 1rem; 
+        }
+
+    /* .center-block {
+        padding-bottom: 100px;
+        padding-top: 50px;
+    } */
+
+    .blokas {
+        padding-bottom: 40px
+    }
+    .text p {
+        font-size: .75rem;
+        text-indent: 0;
+    }
+    .margin-top {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    h1 {
+        text-align: center;
+    }  
+    h2 {
+        margin-top: 40px !important;
+        padding-top: 0;
+        font-size: 25px !important; 
+        padding-bottom: 30px;
+    }
+
+
+    /* education */
+    .education .card {
+        width: 70%;
+        min-height: 280px;
+        min-width: 160px;
+        margin-bottom: 20px;
+    }
+
+    .education .card-title {
+        font-size: 15px;
+        min-height: 50px;
+    }
+
+    .education .card-body {
+        height: 120px;
+        padding: 5px;
+    }
+
+    .education .different-card {
+        min-height: 250px;
+    }
+
+    .education .card-text{
+        font-size: 13px;
+    }
+
+    body h1 {
+        font-size: 35px !important;
+        padding-bottom: 0;
+    }
+    
+    
+    /* citata */
+    .bodytext h3 {
+        font-size: 30px;
+    }
+    .years, .months, .days, .hours, .minutes, .seconds {
+        font-size: 19px;
+        padding: 7px 12px 7px 12px;
+    }
+    .bodytext .blokas {
+        font-size: 10px;
+        margin-left: 3px;
+        padding: 0;
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+    .bodytext ul {
+        margin-top: 20px;
+        padding-bottom: 50px;
+    }
+    .seperator,
+    .seperator-white {
+        width: 80%;
+        padding-bottom: 20px;
+    }
+    .wrapper {
+        font-size: 1.1em !important;
+        padding-top: 50px;
+    }
+    .wrapper-second {
+        font-size: 1em !important;
+        padding-bottom: 50px;
+    }
+    .padding-bottom {
+        padding-bottom: 0;
+    }
+    
+    .wrapper div,
+    .wrapper-second div {
+        text-shadow: 0 0 0;
+    }
+
+   
+
+    /* portfolio */
+
+    .portfolio {
+        height: 370px;
+        width: 40%;
+    }
+    .biopic {
+        width: 100px;
+        height: 100px !important;
+        margin-left: 10px;
+    }
+
+    .biopic span {
+        width: 96px;
+        height: 96px;
+        line-height: 100px;
+        font-size: 1em;
+    }
+
+    .biopic span:hover,
+    .biopic span:focus {
+        cursor: pointer;
+    }    
+
+   .biopic .new-span p:hover::after {
+        content: "'m";
+    }
+    .oval3 {
+        top: 90%;
+        left: 0%;
+    }
+    .oval4 {
+        top: 90%;
+        left: 91%;
+    }
+
+    /* scrolling quote */
+    .container2 {
+        width: 280px;
+    }
+
+    .container2 p {
+        line-height: 0;
+        padding-top: 50px;
+        width: 100%;
+        text-align: center;
+    }
+    .scroller {
+        height: 40px;
+        line-height: 40px;
+        float: left;
+        overflow: hidden;
+        margin-top: 30px;   
+        margin-left: 50px;
+    }
+    .scroller span {
+        width: 200px;
+    }
+    .small-scroller {
+        font-size: 140% !important;
+        padding-top: 50px !important;
+    }
+
+    .different-span {
+        text-align: left;
+    }
+    /* portfolio */
+
+    .first-container span {
+       margin-right: 0;
+    }
+    .first-container h1 {
+        letter-spacing: 0;
+    }
+
+    .first-container span + span {
+        margin-left: 4px;
+    }
+    /* skills */
+
+    #skill li h3 {
+        font-size: 15px;
+        top: -20px;
+    }
+    #skill li {
+        margin-bottom: 30px;
+        height: 20px;
+        border-radius: .25rem;
+    }
+
+    #skill li span {
+        height: 18px;
+        border-radius: .25rem;
+    }
+
+    /* contacts */
+
+    .middle {
+        line-height: 40px;
+        margin-left: 60px;
+        font-size: 15px;
+    }
+    .small-contacts .svg-inline--fa.fa-w-16,
+    .small-contacts .svg-inline--fa.fa-w-14 {
+    width: 20px;
+    margin-left: 40px;
+    }
+
+    form {
+        padding-bottom: 100px;
+    }
+    .form-group {
+        margin-bottom: 0;
+    }
+    .form-control {
+        padding: .1rem .5rem;
+        font-size: 15px;
+    }
+    form button {
+        margin-top: 20px;
+    }
+
+    /* footer */
+
+    footer ul li {
+        padding: 2px 60px;
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    body h1 {
+        font-size: 50px !important;
+        padding-bottom: 30px;
+    }
+
+    .dark h2 {
+        margin-top: 40px !important;
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+
+
+    /* education */
+    .bodytext h3 {
+        font-size: 30px;
+    }
+    .years, .months, .days, .hours, .minutes, .seconds {
+        font-size: 25px;
+        padding: 13px 16px 7px 16px;
+    }
+    .bodytext .blokas {
+        font-size: 15px;
+        margin-left: 5px;
+        padding: 5px;
+        padding-left: 10px;
+    }
+    .bodytext ul {
+        margin-top: 40px;
+    }
+    .wrapper {
+        font-size: 2em !important;
+        padding-top: 100px;
+    }
+    .wrapper-second {
+        font-size: 1.5em !important;
+        padding-bottom: 100px;
+    }
+    .padding-bottom {
+        padding-bottom: 0;
+    }
+
+    /* work-experience */
+
+    .container-work:hover .backwards {
+        margin: 2px;
+  }
+
+}
+        
+    
+@media (min-width: 768px) and  (max-width: 992px) {    
+    .margin-top {
+        padding-top: 50px;
+        margin-bottom: 20px;
+    }
+
+    .dark h2 {
+        margin-top: 60px !important;
+        padding-top: 0;
+    }
+
+   /* education */
+    .bodytext h3 {
+        font-size: 40px;
+    }
+    .years, .months, .days, .hours, .minutes, .seconds {
+        font-size: 30px !important;
+        padding: 20px 30px 20px 30px;
+    }
+    .bodytext .blokas {
+        font-size: 15px;
+        margin-left: 20px;
+    }
+    .bodytext ul {
+        margin-top: 40px;
+    }
+    .padding-bottom {
+        padding-bottom: 0;
+    }
+}
+
+@media (max-width: 992px) {
+    .top-bar-name {
+        font-size: 15px;
+    }
+
+    .photo {
+        margin-top:50px;
+    }
+    .wrapper {
+        font-size: 2em;
+    }
+    .wrapper-second {
+        font-size: 1.5em;
+    }
+    
+
+    .row-timeline .col-sm-4 {
+        display: none;
+    }
+    .row-timeline .col-sm-8 {
+        width: 97%;
+        margin-left: 10px;
+    }
+    .row-timeline .col-sm-8 .timeline-body:after {
+        display: none;
+    }
+}
+@media (min-width: 993px) and  (max-width: 1199px) {
+    .years, .months, .days, .hours, .minutes, .seconds {
+        padding: 25px 40px 25px 40px !important;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    
+}
+
+/* Large devices (desktops, 992px and up) */
+/* @media (min-width: 1300px) { 
+    .home-next {
+        height:100vh;
+        max-height:100vh;
+    }
+
+    
+ } */
+
+/* Large devices (desktops, 992px and up) */
+/* @media (min-width: 992px) {
+    .margin-top-first {
+        margin-top: 50px;
+    }
+ } */
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (max-width: 1200px) { 
+
+    .bodytext ul {
+        padding-left: 20px;
+    }
+    .wrapper {
+        font-size: 3em;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .row-timeline .timeline-heading {
+      padding-left: 100px;
+    }
+    .row-timeline .timeline-heading .circle {
+      left: 17.8%;
+    }
+  }
